@@ -6,9 +6,8 @@ Optimization final project
 --
 
 ## Product Chosen
-- Hopia
-  - 
---
+- ## **Hopia**
+---
 ## Ingredient List
 
 |Ingredient          |Available Qty. |Required for Product Unit |Cost Per Unit |
@@ -35,7 +34,7 @@ Optimization final project
 - Profit
 - Break-even Point
 
---
+---
 ## Sample Run:
 ### Input:
 - **Product Name:** Hopia 
