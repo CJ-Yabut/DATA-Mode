@@ -59,7 +59,7 @@ Optimization final project
 ---
 
 Group Members:
-1. Alfonso, Soley Alexis 
+1. Alfonso, Alexis Soley
 2. Boongaling, Zaki Lorenzo
 3. Salvador, Jake Allen
 4. Yabut, Christian Jiro
