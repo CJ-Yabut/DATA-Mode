@@ -49,10 +49,22 @@ Optimization final project
   - Water: 100 L, ₱5/L, 0.01L per unit 
   - Packaging (Plastic): 1000 pcs, ₱2/pc, 1 pc per unit
 
+---
+
  ### Output:
 
 ![Result Screenshot](/Sample1/s1.png)
 ![Result Screenshot](/Sample1/s1.2.png)
+
+---
+
+Group Members:
+1. Alfonso, Soley Alexis 
+2. Boongaling, Zaki Lorenzo
+3. Salvador, Jake Allen
+4. Yabut, Christian Jiro
+5. Yao, Aaron Josh
+
 
       
 
